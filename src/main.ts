@@ -63,7 +63,7 @@ export default class SimpleWritingPlugin extends Plugin {
 		// Ícone na ribbon
 		this.addRibbonIcon(
 			"book-open",
-			"Writing Mode: ON",
+			"Writing mode: ON",
 			async () => {
 				await this.toggleWritingMode();
 			},
