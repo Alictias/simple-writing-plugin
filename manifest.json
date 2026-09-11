@@ -3,10 +3,9 @@
 	"name": "Simple Writing",
 	"version": "1.0.0",
 	"minAppVersion": "1.4.4",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A simple writing-focused editor for Obsidian, designed to reduce formatting distractions and accidental Markdown shortcuts.",
+	"author": "Alictias",
+	"authorUrl": "https://github.com/Alictias",
 	"styles": "styles.css",
 	"isDesktopOnly": false
 }
