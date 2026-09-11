@@ -1,7 +1,7 @@
 {
 	"id": "simple-writing",
 	"name": "Simple Writing",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"minAppVersion": "1.4.4",
 	"description": "A writing-focused editor designed to reduce formatting distractions and accidental Markdown shortcuts.",
 	"author": "Alictias",
