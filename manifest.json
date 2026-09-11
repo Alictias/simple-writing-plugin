@@ -3,9 +3,8 @@
 	"name": "Simple Writing",
 	"version": "1.0.0",
 	"minAppVersion": "1.4.4",
-	"description": "A simple writing-focused editor for Obsidian, designed to reduce formatting distractions and accidental Markdown shortcuts.",
+	"description": "A writing-focused editor designed to reduce formatting distractions and accidental Markdown shortcuts.",
 	"author": "Alictias",
 	"authorUrl": "https://github.com/Alictias",
-	"styles": "styles.css",
 	"isDesktopOnly": false
 }
