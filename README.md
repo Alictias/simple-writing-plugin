@@ -145,7 +145,3 @@ Planned features include:
 * More customization options
 
 The roadmap may change as the project develops.
-
-## License
-
-[Choose a license for the project.]
